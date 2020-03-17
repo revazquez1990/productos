@@ -1,0 +1,39 @@
+{
+  "productos": [
+    {
+      "nombre": "Jugo de Naranja espeso",
+      "precio": "24",
+      "id": 3
+    },
+    {
+      "nombre": "coca cola",
+      "precio": 25,
+      "id": 11
+    },
+    {
+      "nombre": "Amburguesa de queso",
+      "precio": "30",
+      "id": 13
+    },
+    {
+      "nombre": "Pizza Napolitana de jamon",
+      "precio": "13",
+      "id": 14
+    },
+    {
+      "nombre": "moto electrica",
+      "precio": "650",
+      "id": 18
+    },
+    {
+      "nombre": "bocadito de jamon",
+      "precio": "15",
+      "id": 19
+    },
+    {
+      "nombre": "pan con pasta",
+      "precio": 5,
+      "id": 20
+    }
+  ]
+}
